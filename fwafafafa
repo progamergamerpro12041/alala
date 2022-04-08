@@ -366,4 +366,4 @@ end
 
 --// Load
 
-Load(); SendNotification(Title, "Aimbot script successfully loaded!", 5)
+Load(); SendNotification(Title, "Aimbot successfully loaded!", 5)
